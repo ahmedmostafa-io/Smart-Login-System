@@ -42,12 +42,7 @@ Check out the live version here:
 ├── webfonts/                 # Folder for fonts used in the design (if any)
 └── README.md                 # Project documentation`
 
-## Getting Started
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/ahmedmostafa-io/smart-login.git
 
 
 ## Author
