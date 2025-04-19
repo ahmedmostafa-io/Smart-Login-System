@@ -20,7 +20,7 @@ A modern , responsive login , and accessible login and registration interface fo
 ## Live Demo
 
 Check out the live version here:  
-[https://smart-login.netlify.app/](https://smart-login.netlify.app/)
+[https://smart-login.netlify.app/]([https://smart-login.netlify.app/](https://ahmedmostafa-io.github.io/Smart-Login-System/))
 
 ## Screenshots
 
